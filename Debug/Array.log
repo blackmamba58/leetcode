@@ -1,0 +1,9 @@
+﻿  rotate.cpp
+c:\users\sanjay\documents\visual studio 2017\projects\myleetcode\array\rotate.cpp(12): warning C4018: '>': signed/unsigned mismatch
+  plusOne.cpp
+  moveZeroes.cpp
+  maxProfit.cpp
+c:\users\sanjay\documents\visual studio 2017\projects\myleetcode\array\maxprofit.cpp(31): warning C4101: 'currPrice': unreferenced local variable
+  intersect.cpp
+  Generating Code...
+LINK : fatal error LNK1561: entry point must be defined

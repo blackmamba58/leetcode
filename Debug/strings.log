@@ -1,0 +1,12 @@
+﻿  reverseInteger.cpp
+  reverse.cpp
+  myStrstr.cpp
+  myAtoi.cpp
+c:\users\sanjay\documents\visual studio 2017\projects\myleetcode\strings\myatoi.cpp(41): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+  longestCommonPrefix.cpp
+c:\users\sanjay\documents\visual studio 2017\projects\myleetcode\strings\longestcommonprefix.cpp(20): warning C4018: '>=': signed/unsigned mismatch
+  isPalindrome.cpp
+  isAnagram.cpp
+  countAndSay.cpp
+  Generating Code...
+LINK : fatal error LNK1561: entry point must be defined
