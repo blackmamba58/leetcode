@@ -27,8 +27,8 @@ public:
 					else {
 						result.push_back({ nums[i], nums[j], nums[start], nums[end] });
 						// here we need to decide what to do with start and end
-						while (start != end && nums[start] == nums[start + 1]) start++;
-						while (end && nums[end] == nums[end - 1]) end--;
+						start++;
+						while (start != end && nums[start] == nums[start - 1]) start++;
 					}
 				}
 			}
